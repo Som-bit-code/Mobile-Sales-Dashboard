@@ -36,4 +36,5 @@ Power BI Desktop
 Bing Maps for Geospatial Visualization.
 
 4. Screenshots/ Demos.
+   https://github.com/Som-bit-code/Mobile-Sales-Dashboard/blob/main/Snapshot%20of%20Dashboard.png
    
